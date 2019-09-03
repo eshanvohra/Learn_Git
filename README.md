@@ -14,7 +14,7 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
-- Name: MUSKAN BHAGAT
-- Roll No.:2019010053576
-- Interests: AI
+- Name: Eshan Vohra
+- Roll No.:2018CSA1073
+- Interests: ML
 
