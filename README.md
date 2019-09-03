@@ -13,7 +13,7 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 2. Bonus Task: Add the resources that you find really helpful in learning Git/GitHub basics in [Git_Resources](Git_Resources.md) .
 
 ## Interested Students
-
 - Name: Eshan Vohra
 - Roll No.:2018CSA1073
 - Interests: ML,Big Data
+
