@@ -14,6 +14,6 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
-- Name: 
-- Roll No.:
+- Name: Eshan Vohra
+- Roll No.:2018CSA1073
 - Interests: 
